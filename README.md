@@ -3,8 +3,8 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 Um pouco sobre mim:
 
-- 📖 Cursando o 4º período de Engenharia de Software na Campo Real
-- 📲 Estudando React e Node.js
+- 📖 Cursando o 5º período de Engenharia de Software na Campo Real
+- 📲 Estudando React, Node.js, Angular, Java/Spring
 - 🔍 Procurando por vagas de trabalho como desenvolvedor
 - 📄 Sempre buscando melhorar
 
