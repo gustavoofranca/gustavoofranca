@@ -57,10 +57,3 @@
 | **[Ignite Premium Rentals](https://github.com/gustavoofranca/rental-app)** | TypeScript · React · shadcn/ui · Firebase | Plataforma de aluguel de carros premium, com testes (Vitest) e CI.<br>*Premium car rental platform, with Vitest tests and CI.* |
 | **[Prime Edu](https://github.com/gustavoofranca/projeto-flutter-escola)** | Flutter · Dart | App escolar mobile com autenticação biométrica.<br>*School mobile app with biometric authentication.* |
 | **[Restaurant Management System](https://github.com/gustavoofranca/restaurant-management-system)** | Angular · TypeScript · RxJS | Gestão de restaurante: pedidos, financeiro e estoque.<br>*Restaurant management: orders, finance and inventory.* |
-
----
-
-### GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=gustavoofranca&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoofranca&layout=compact&theme=dark)
