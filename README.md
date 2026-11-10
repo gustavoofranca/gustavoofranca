@@ -24,35 +24,13 @@
 
 ### Stack
 
-**Front-end**<br>
-<img src="https://cdn.simpleicons.org/react" width="36" height="36" alt="React" title="React" />&nbsp;
-<img src="https://cdn.simpleicons.org/angular/DD0031" width="36" height="36" alt="Angular" title="Angular" />&nbsp;
-<img src="https://cdn.simpleicons.org/vuedotjs" width="36" height="36" alt="Vue" title="Vue" />&nbsp;
-<img src="https://cdn.simpleicons.org/typescript" width="36" height="36" alt="TypeScript" title="TypeScript" />&nbsp;
-<img src="https://cdn.simpleicons.org/javascript" width="36" height="36" alt="JavaScript" title="JavaScript" />&nbsp;
-<img src="https://cdn.simpleicons.org/html5" width="36" height="36" alt="HTML e CSS" title="HTML e CSS" />&nbsp;
-<img src="https://cdn.simpleicons.org/tailwindcss" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS" />
-
-**Back-end**<br>
-<img src="https://cdn.simpleicons.org/nodedotjs" width="36" height="36" alt="Node.js" title="Node.js" />&nbsp;
-<img src="https://cdn.simpleicons.org/nestjs" width="36" height="36" alt="NestJS" title="NestJS" />&nbsp;
-<img src="https://cdn.simpleicons.org/python" width="36" height="36" alt="Python" title="Python" />&nbsp;
-<img src="https://cdn.simpleicons.org/flask/000000/ffffff" width="36" height="36" alt="Flask" title="Flask" />&nbsp;
-<img src="https://cdn.simpleicons.org/php" width="36" height="36" alt="PHP" title="PHP" />&nbsp;
-<img src="https://cdn.simpleicons.org/laravel" width="36" height="36" alt="Laravel" title="Laravel" />&nbsp;
-<img src="https://cdn.simpleicons.org/openjdk/000000/ffffff" width="36" height="36" alt="Java" title="Java" />
-
-**CMS e dados · CMS and data**<br>
-<img src="https://cdn.simpleicons.org/wordpress" width="36" height="36" alt="WordPress" title="WordPress" />&nbsp;
-<img src="https://cdn.simpleicons.org/strapi" width="36" height="36" alt="Strapi" title="Strapi" />&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
-<img src="https://cdn.simpleicons.org/supabase" width="36" height="36" alt="Supabase" title="Supabase" />&nbsp;
-<img src="https://cdn.simpleicons.org/firebase" width="36" height="36" alt="Firebase" title="Firebase" />
-
-**Infraestrutura · Infrastructure**<br>
-<img src="https://cdn.simpleicons.org/docker" width="36" height="36" alt="Docker" title="Docker" />&nbsp;
-<img src="https://cdn.simpleicons.org/linux/000000/ffffff" width="36" height="36" alt="Servidores Linux" title="Servidores Linux" />&nbsp;
-<img src="https://cdn.simpleicons.org/git" width="36" height="36" alt="Git" title="Git" />
+| Área · Area | |
+| :--- | :--- |
+| **Front-end** | <img src="https://cdn.simpleicons.org/react" width="18" height="18" alt="" /> React &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/angular/DD0031" width="18" height="18" alt="" /> Angular &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/vuedotjs" width="18" height="18" alt="" /> Vue &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/typescript" width="18" height="18" alt="" /> TypeScript &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/javascript" width="18" height="18" alt="" /> JavaScript &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/html5" width="18" height="18" alt="" /> HTML & CSS &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/tailwindcss" width="18" height="18" alt="" /> Tailwind CSS |
+| **Back-end** | <img src="https://cdn.simpleicons.org/nodedotjs" width="18" height="18" alt="" /> Node.js &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/nestjs" width="18" height="18" alt="" /> NestJS &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/python" width="18" height="18" alt="" /> Python &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/flask/000000/ffffff" width="18" height="18" alt="" /> Flask &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/php" width="18" height="18" alt="" /> PHP &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/laravel" width="18" height="18" alt="" /> Laravel &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/openjdk/000000/ffffff" width="18" height="18" alt="" /> Java |
+| **CMS e web · CMS and web** | <img src="https://cdn.simpleicons.org/wordpress" width="18" height="18" alt="" /> WordPress &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/strapi" width="18" height="18" alt="" /> Strapi |
+| **Dados · Data** | <img src="https://cdn.simpleicons.org/postgresql" width="18" height="18" alt="" /> PostgreSQL &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/supabase" width="18" height="18" alt="" /> Supabase &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/firebase" width="18" height="18" alt="" /> Firebase |
+| **Infraestrutura · Infrastructure** | <img src="https://cdn.simpleicons.org/docker" width="18" height="18" alt="" /> Docker &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/linux/000000/ffffff" width="18" height="18" alt="" /> Linux &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/git" width="18" height="18" alt="" /> Git e GitHub |
 
 Deploy de aplicações, servidores Linux e suporte · Application deployment, Linux servers and support
 
